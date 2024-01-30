@@ -1,3 +1,5 @@
+package Homework;
+
 public class Name2 {
     public static void main(String[] args) {
         String myFirstName = "Teodora";

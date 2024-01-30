@@ -1,3 +1,5 @@
+package Homework;
+
 public class TrianglePerimeter {
     public static void main(String[] args) {
         int a = 5;
